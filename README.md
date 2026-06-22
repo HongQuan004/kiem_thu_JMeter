@@ -6,6 +6,7 @@
 Công cụ kiểm thử: Apache JMeter (Phiên bản 5.6.3)
 Mục tiêu: Thực hành gửi HTTP Request và tự động kiểm tra kết quả trả về (Assertion).
 API sử dụng: https://jsonplaceholder.typicode.com/users
+
 Phương thức: GET
 2. Kịch bản kiểm thử (Test Cases)
 2.1. Cấu hình HTTP Request cơ bản
