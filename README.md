@@ -3,19 +3,19 @@
 # Mã sinh viên: 22010123
 
 1. Thông tin chung <br>
-ông cụ kiểm thử: Apache JMeter (Phiên bản 5.6.3) <br>
+Công cụ kiểm thử: Apache JMeter (Phiên bản 5.6.3) <br>
 Mục tiêu: Thực hành gửi HTTP Request và tự động kiểm tra kết quả trả về (Assertion). <br>
-API sử dụng: https://jsonplaceholder.typicode.com/users
+API sử dụng: https://jsonplaceholder.typicode.com/users <br>
 
-Phương thức: GET
-2. Kịch bản kiểm thử (Test Cases)
-2.1. Cấu hình HTTP Request cơ bản
-Thiết lập kịch bản gửi một GET request tới server để lấy danh sách người dùng.
+Phương thức: GET <br>
+2. Kịch bản kiểm thử (Test Cases) <br>
+2.1. Cấu hình HTTP Request cơ bản <br>
+Thiết lập kịch bản gửi một GET request tới server để lấy danh sách người dùng. <br>
 
-Protocol: https
-Server Name: jsonplaceholder.typicode.com
-Path: users
-Hình ảnh cấu hình HTTP Request: Cấu hình HTTP Request
+Protocol: https <br>
+Server Name: jsonplaceholder.typicode.com <br>
+Path: users <br>
+Hình ảnh cấu hình HTTP Request: Cấu hình HTTP Request <br>
 <img width="1527" height="865" alt="image" src="https://github.com/user-attachments/assets/4732bf4b-c9b4-4caf-8e7e-25b7df47b435" />
 
 2.2. Kiểm thử tự động (Pass Case - Kỳ vọng 200 OK)
