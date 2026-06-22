@@ -2,9 +2,9 @@
 # Họ và tên: Nguyễn Hồng Quân 
 # Mã sinh viên: 22010123
 
-1. Thông tin chung
-Công cụ kiểm thử: Apache JMeter (Phiên bản 5.6.3)
-Mục tiêu: Thực hành gửi HTTP Request và tự động kiểm tra kết quả trả về (Assertion).
+1. Thông tin chung <br>
+ông cụ kiểm thử: Apache JMeter (Phiên bản 5.6.3) <br>
+Mục tiêu: Thực hành gửi HTTP Request và tự động kiểm tra kết quả trả về (Assertion). <br>
 API sử dụng: https://jsonplaceholder.typicode.com/users
 
 Phương thức: GET
