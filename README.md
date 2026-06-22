@@ -31,7 +31,7 @@ Hình ảnh kết quả chạy thành công: Kết quả Pass
 2.3. Kiểm thử tự động (Fail Case - Cố tình tạo lỗi) <br>
 Mục tiêu: Thay đổi điều kiện kiểm tra để đảm bảo công cụ bắt được lỗi khi kết quả không đúng kỳ vọng. <br>
 Đổi Response Assertion sang kỳ vọng mã 900. <br>
-Kết quả: Kịch bản báo lỗi (hiển thị màu đỏ) do mã thực tế trả về là 200 chứ không phải 900 như kịch bản yêu cầu.<br>
+Kết quả: Kịch bản báo lỗi (hiển thị màu đỏ) do mã thực tế trả về là 200 chứ không phải 900 như kịch bản yêu cầu. <br>
 Hình ảnh cấu hình Assertion (900): Cấu hình Assertion 900
 <img width="1507" height="864" alt="image" src="https://github.com/user-attachments/assets/b1719e69-15a2-438f-b717-fa8f6ebe9ff8" />
 
